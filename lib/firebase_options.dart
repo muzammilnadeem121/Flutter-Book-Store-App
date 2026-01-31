@@ -63,7 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '22097784366',
     projectId: 'book-store-d2826',
     storageBucket: 'book-store-d2826.firebasestorage.app',
-    iosClientId: '22097784366-lm15ee80p39r7390t3n8q2uu5kjdihm3.apps.googleusercontent.com',
+    iosClientId:
+        '22097784366-lm15ee80p39r7390t3n8q2uu5kjdihm3.apps.googleusercontent.com',
     iosBundleId: 'com.example.eProject',
   );
 
@@ -73,7 +74,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '22097784366',
     projectId: 'book-store-d2826',
     storageBucket: 'book-store-d2826.firebasestorage.app',
-    iosClientId: '22097784366-lm15ee80p39r7390t3n8q2uu5kjdihm3.apps.googleusercontent.com',
+    iosClientId:
+        '22097784366-lm15ee80p39r7390t3n8q2uu5kjdihm3.apps.googleusercontent.com',
     iosBundleId: 'com.example.eProject',
   );
 
@@ -85,5 +87,4 @@ class DefaultFirebaseOptions {
     authDomain: 'book-store-d2826.firebaseapp.com',
     storageBucket: 'book-store-d2826.firebasestorage.app',
   );
-
 }
