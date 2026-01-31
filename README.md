@@ -1,4 +1,4 @@
-# 📚 E-Project — Online Book Store App (Flutter + Firebase)
+# 📚 BooksBound — Online Book Store App (Flutter + Firebase)
 
 A full-featured **Online Book Store mobile application** built using **Flutter** and **Firebase**, including a complete **Admin Panel** for managing books, users, reviews, and analytics.
 
